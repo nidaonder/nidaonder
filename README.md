@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+#### Technologies
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,mysql,postgres,&theme=light)](https://skillicons.dev)
+
+#### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
 
