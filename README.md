@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?nidaonder=DenverCoder1)](https://git.io/streak-stats)
-<!--
+[![GitHub Streak](https://streak-stats.demolab.com/nidaonderDenverCoder1)](https://git.io/streak-stats)<!--
 **nidaonder/nidaonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
