@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-#### Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,mysql,postgres,&theme=light)](https://skillicons.dev)
+#### Technologies:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,mysql,postgres,&theme=light)](https://skillicons.dev)
 
-#### Tools
-
-[![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
+#### Tools:
+[![My Skills](https://skillicons.dev/icons?i=idea,postman,vscode&theme=light)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nidaonder&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
