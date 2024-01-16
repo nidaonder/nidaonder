@@ -3,7 +3,7 @@
 - 🌱 I'm currently in the FullStack Web Developer program. I am interested in Java and Javascript related topics.
 
 ### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,mysql,postgres,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,&theme=light)](https://skillicons.dev)
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,postman,bootstrap,vscode&theme=light)](https://skillicons.dev)
