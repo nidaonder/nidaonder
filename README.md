@@ -8,8 +8,7 @@
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,postman,bootstrap,vscode&theme=light)](https://skillicons.dev)
 
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nidaonder&theme=default)
 <!--
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nidaonder&theme=aura_dark)
